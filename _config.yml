@@ -1,14 +1,14 @@
 # Site settings
-title: A.P
-baseurl: "/ap"
-url: "https://kssim.github.io"
+title: C.C
+baseurl: ""
+url: "https://chengchen.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
+  name: Cheng Chen
   desc: Hello nice to meet you
-  email: ksub0912@gmail.com
+  email: cheng.chen2@mail.mcgill.ca
   selfie: assets/img/profile.jpg
 
 # social
@@ -17,13 +17,12 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
   flickr:
-  github: kssim
+  github: https://github.com/doobluhc
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: https://www.linkedin.com/in/chengchenmcgill/
   pinterest:
   reddit:
   soundcloud:
@@ -31,7 +30,6 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
   vimeo:
   wordpress:
   youtube:
