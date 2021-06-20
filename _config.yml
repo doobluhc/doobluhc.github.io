@@ -9,7 +9,7 @@ author:
   name: Cheng Chen
   desc: Hi! Welcome to my website!
   email: cheng.chen2@mail.mcgill.ca
-  selfie: assets/img/profile.jpg
+  # selfie: assets/img/profile.jpg
 
 # social
 social:
