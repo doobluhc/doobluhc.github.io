@@ -12,6 +12,7 @@ I am a student at McGill University currently pursuing Bechelor of Engineering m
   * McGill Edge Intelligence Lab
     * Awarded [Summer Undergraduate Research In Engineering award](https://www.mcgill.ca/engineering/students/undergraduate/research)
     * Literature review and investigate methods to compress BERT-like models without a compromise in performance
+    * Generated baseline results that have a parameter size 10X less than SOTA models with only 5% reduction in performance compared to SOTA models 
     * Still in Progress
     * supervisor: [Prof. Warren Gross](https://www.mcgill.ca/ece/warren-gross)
 * Technical Program Manager(2021/04 ~ Present)
