@@ -7,7 +7,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Cheng Chen
-  desc: Hi! Welcome to my website!
+  desc: Hi! Welcome!
   email: cheng.chen2@mail.mcgill.ca
   selfie: assets/img/profile.jpg
 
