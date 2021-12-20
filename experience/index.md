@@ -10,7 +10,7 @@ layout: experience
   * [McGill Edge Intelligence Lab](http://meil.ece.mcgill.ca/)
     * Awarded [Summer Undergraduate Research In Engineering award](https://www.mcgill.ca/engineering/students/undergraduate/research)
     * Literature review and investigate methods to compress BERT-like models without a compromise in performance
-    * Generated baseline results that have a parameter size 10X less than SOTA models with only 5% reduction in performance compared to SOTA models 
+    * Generated results that have a parameter size 10X less than SOTA models with only 5% reduction in performance compared to SOTA models 
     * Still in Progress
     * supervisor: [Prof. Warren Gross](https://www.mcgill.ca/ece/warren-gross)
 
@@ -19,6 +19,7 @@ layout: experience
   * [McGill AI society](https://www.mcgillai.com/)
     * Organize ten-week long bootcamps that teach lower year undergraduates machine learning fundamentals
     * Act as teaching assiant for the bootcamp: design interview questions, design and grade assignments, hold office hours to answer questions from the bootcamp participants and give workshops on machine learning topics.
+    * Gave a workshop on Python for data science to 40+ participants
 
 
 ## Research Intern(2020/05 ~ 2020/09)
