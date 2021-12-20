@@ -2,7 +2,7 @@
 layout: post
 title:  "Barber Shop Management System"
 info: "A management system for vehicle repair shop"
-tech: "Java, JavaSpring, Springboot"
+tech: "Java, Java Swing"
 type: desktop APP
 ---
 
