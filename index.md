@@ -7,7 +7,8 @@ I am a student at McGill University currently pursuing Bechelor of Engineering m
 
 <br/>
 
-### I am currently looking for an internship in software engineering or data science in summer 2022 before I start my master's degree, feel free to contact me if you find my profile interesting :))
+# News 
+I will be joinning [Reel FX](https://www.reelfx.com/) Montreal Studio as a Research&Development Intern in May 2022! 
 
 # Hobbies
 Piano, Sports(basketball, MMA and etc.) 
