@@ -6,17 +6,22 @@ layout: experience
 <br/>
 
 # Professional Experiences
-## Machine Learning Intern (2022/05 ~ 2022/09)
+## Graduate Research Assistant (2023/05 ~ Present)
+  * University of Toronto
+    * Developed custom PyTorch kernels to achieve ~10% lossless compression of DNN weights, including Resnet18 and Resnet50.
+    * Currently optimizing DNN inference by compressing activations to reduce time and memory usage.
+## Research Assistant (2022/05 ~ Present)
   * [Reel FX](https://www.reelfx.com/)
-    * Collected, cleaned and feature engineered data from the rendering farm
-    * Fine tune machine learning models to predict the rendering time of each render job
+    * Achieved an 80% classification accuracy and a 0.72 regression R2 score in predicting rendering times.
+    * Implemented Stable Diffusion for generating animation images and style transfer.
+    * Enhancing video rendering efficiency through computing cluster scheduling.
 
 ## Research Intern (2021/05 ~ 2022/04)
   * [McGill Edge Intelligence Lab](http://meil.ece.mcgill.ca/)
     * Awarded [Summer Undergraduate Research In Engineering award](https://www.mcgill.ca/engineering/students/undergraduate/research)
-    * Literature review and investigate methods to compress BERT-like models without a compromise in performance
-    * Generated results that have a parameter size 10X less than SOTA models with only 5% reduction in performance compared to SOTA models 
-    * Still in Progress
+    * Implemented Knowledge Distillation and Neural Architecture Search to compress BERT models.
+    * Developed a blockwise method reducing parameter size by 10X with only a 3% reduction in performance.
+    * Pipelined BERT inference on heterogeneous resources. Work published at the Journal of Signal Processing Systems
     * supervisor: [Prof. Warren Gross](https://www.mcgill.ca/ece/warren-gross)
 
 
